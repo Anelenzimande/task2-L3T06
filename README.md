@@ -35,12 +35,8 @@ To install and run this project locally, follow these steps:
 ## Usage
 This serves as a CV page to showcase your skills and allow pontential employers to learn more about you. 
 
-
-### Screenshots
-**Homepage:**
-
-
----
+## URL
+https://anelenzimande.github.io/task2-L3T06/
 
 ## Credits
 This project was created by:
